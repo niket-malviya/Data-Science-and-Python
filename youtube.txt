@@ -1,0 +1,1 @@
+[{"name": "linear regression hard mode ", "time": "20"}, {"name": "logctic regression", "time": "10 mins"}]
